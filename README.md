@@ -15,12 +15,14 @@
 
 ## Project Tasks:
 
-1. Clean data
+### 1. Clean data
 
-2. Filter data by 6 states and one Natural Disaster type
+### 2. Filter data by 6 states and one Natural Disaster type
 
-3. Summarize data for natural disaster of our choice
+### 3. Summarize data for natural disaster of our choice
 
-4. Analysis of the risk to population and regional trends
+### 4. Analysis of the risk to population and regional trends
 
-5. Compare high risks to population density
+### 5. Compare high risks to population density
+
+
