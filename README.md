@@ -8,8 +8,7 @@
 - [Annotated Code Document]()
 - [Written Report]()
 - [Python Code]()
-- [Colorado.csv]()
-- [Texas.csv]()
+
 ---
 ## Overview
 
