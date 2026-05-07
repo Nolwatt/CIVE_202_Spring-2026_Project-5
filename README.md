@@ -1,5 +1,5 @@
 # CIVE_202_Spring-2026_Project-5
---- For this project, we analyzed one natural hazard using NRI Census Tract data across New England U.S. states to identify regional risk patterns and population impacts. We used NRI and SVI data to evaluate hazard risk, compare vulnerable areas, and examine how different populations are affected by the hazard.
+--- 
 ---
 ## This includes files for Project no. 2:
 - [Gantt Chart]()
