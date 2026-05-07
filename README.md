@@ -3,8 +3,8 @@
 ## This includes files for Project no. 5:
 - [Scope of Work](Cive_202_Project5_SOW.docx)
 - [Gantt Chart]()
-- [CIVE_202_Project_5_Timesheet.xps]()
-- [Annotated Code Document]()
+- [Project Timesheet](CIVE_202_Project_5_Timesheet.xps)
+- [Annotated Code Document](CIVE_202_Spring-2026_Project-5_ACD)
 - [Written Report]()
 - [Python Code]()
 
