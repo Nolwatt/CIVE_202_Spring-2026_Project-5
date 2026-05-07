@@ -1,6 +1,5 @@
 # CIVE_202_Spring-2026_Project-5
---- 
----
+
 ## This includes files for Project no. 2:
 - [Gantt Chart]()
 - [Timesheet]()
