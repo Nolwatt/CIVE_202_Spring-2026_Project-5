@@ -1,9 +1,9 @@
 # CIVE_202_Spring-2026_Project-5
 
-## This includes files for Project no. 2:
+## This includes files for Project no. 5:
+-[Cive_202_Project5_SOW.docx]()
 - [Gantt Chart]()
-- [Timesheet]()
-- [Scope of Work]()
+- [CIVE_202_Project_5_Timesheet.xps]()
 - [Annotated Code Document]()
 - [Written Report]()
 - [Python Code]()
