@@ -40,4 +40,20 @@ could be created.
 * Several maps and graphs were generated to compare winter weather risk between states 
 and identify regional trends. Functions were created in the code to organize repeated tasks 
 such as filtering data and generating visualizations. The project also included discussions 
-about possible bias in the datasets and how coding decisions may affect the final results. 
+about possible bias in the datasets and how coding decisions may affect the final results.
+
+## Discussions
+* The results showed clear differences in winter weather risk across the New England region. 
+Northern states such as Maine, Vermont, and New Hampshire generally had higher winter 
+weather risk values than southern states such as Rhode Island and Connecticut. 
+Massachusetts showed mixed results depending on the area being analyzed.
+
+* The maps and graphs showed that geography and climate play a major role in winter 
+weather risk. Areas with harsher winters and more rural communities often showed higher 
+risk levels. Population density and social vulnerability may also affect how strongly 
+communities are impacted during severe winter weather events.
+
+Overall, the project successfully used programming, data cleaning, and mapping tools to 
+analyze natural hazard risk across the region. The visualizations helped explain regional 
+differences in winter weather risk and showed how environmental data can be used to 
+better understand and prepare for natural disasters. 
