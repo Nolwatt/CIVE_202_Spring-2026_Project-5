@@ -1,12 +1,12 @@
 # CIVE_202_Spring-2026_Project-5
 
 ## This includes files for Project no. 5:
-- [Scope of Work](docs/Cive_202_Project5_SOW.docx)
-- [Gantt Chart]()
+- [Scope of Work](CIVE_202_Project_5_SOW.pdf)
+- [Gantt Chart](CIVE__202_Project_5_Gantt_Chart.xps)
 - [Project Timesheet](CIVE_202_Project_5_Timesheet.xps)
 - [Annotated Code Document](CIVE_202_Spring-2026_Project-5_ACD)
 - [Written Report]()
-- [Python Code]()
+- [Python Code](CIVE_202_Spring-2026_Project-5_Group-7_Code_Group.ipynb)
 
 ---
 ## Overview
