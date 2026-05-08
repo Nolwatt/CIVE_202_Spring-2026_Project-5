@@ -5,7 +5,7 @@
 - [Gantt Chart](CIVE__202_Project_5_Gantt_Chart.xps)
 - [Project Timesheet](CIVE_202_Project_5_Timesheet.xps)
 - [Annotated Code Document](CIVE_202_Spring-2026_Project-5_ACD)
-- [Written Report]()
+- [Written Report](CIVE_202_Project_5_Group_#_ProjectReport.docx.pdf.pdf)
 - [Python Code](CIVE_202_Spring-2026_Project-5_Group-7_Code_Group.ipynb)
 
 ---
