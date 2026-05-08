@@ -30,3 +30,14 @@ Our group has previously completed a risk analysis for Risk Averse, LLC, and the
 ### 5. Compare high risks to population density
 *	Using the data collected from our code using the risk score calculations, we will compare the high risk of winter weather to population density.
 
+## Methods
+* The analysis was completed in Python using several data science and visualization 
+libraries, including Pandas, NumPy, Matplotlib, Seaborn, and GeoPandas.FEMA Census Tract datasets and map shapefiles were imported and cleaned before analysis. Invalid values, such as -9999, were removed or replaced to improve the accuracy of the data. 
+* The dataset was filtered to include only the six selected New England states. The winter 
+weather risk variable (WNTW_RISKV) was used to compare hazard levels across census 
+tracts. Geographic map data was also adjusted into a consistent format so accurate maps 
+could be created. 
+* Several maps and graphs were generated to compare winter weather risk between states 
+and identify regional trends. Functions were created in the code to organize repeated tasks 
+such as filtering data and generating visualizations. The project also included discussions 
+about possible bias in the datasets and how coding decisions may affect the final results. 
