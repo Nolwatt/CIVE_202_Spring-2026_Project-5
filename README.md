@@ -15,18 +15,18 @@ Our group has previously completed a risk analysis for Risk Averse, LLC, and the
 ## Project Tasks:
 
 ### 1. Clean data
-•	Our team will download the National Risk Index (NRI) Census Tract dataset from the FEMA data resources website, along with the NRI Data Dictionary and Hazard Information files. The CDC Social Vulnerability Index (SVI) dataset will also be obtained. All datasets will be reviewed in Python to confirm they are properly structured for analysis.
+*	Our team will download the National Risk Index (NRI) Census Tract dataset from the FEMA data resources website, along with the NRI Data Dictionary and Hazard Information files. The CDC Social Vulnerability Index (SVI) dataset will also be obtained. All datasets will be reviewed in Python to confirm they are properly structured for analysis.
 
 ### 2. Filter data by 6 states and one Natural Disaster type
-•	Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut
-•	Risk or winter weather
+*	Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and Connecticut
+*	Risk or winter weather
 
 ### 3. Summarize data for natural disaster of our choice
-•	Using Python with the matplotlib and GeoPandas libraries, our team will create visualizations of tables and plots for each state and the region.
+*	Using Python with the matplotlib and GeoPandas libraries, our team will create visualizations of tables and plots for each state and the region.
 
 ### 4. Analysis of the risk to population and regional trends
-•	Using Python with the pandas and numpy libraries, our team will analyze the NRI dataset for each state. Summary statistics including mean, median, minimum, and maximum values will be calculated for key variables such as Expected Annual Loss, Social Vulnerability, Community Resilience, and NRI Risk Scores for winter weather. This analysis will help identify trends and differences in risk distribution across the region.
+*	Using Python with the pandas and numpy libraries, our team will analyze the NRI dataset for each state. Summary statistics including mean, median, minimum, and maximum values will be calculated for key variables such as Expected Annual Loss, Social Vulnerability, Community Resilience, and NRI Risk Scores for winter weather. This analysis will help identify trends and differences in risk distribution across the region.
 
 ### 5. Compare high risks to population density
-•	Using the data collected from our code using the risk score calculations, we will compare the high risk of winter weather to population density.
+*	Using the data collected from our code using the risk score calculations, we will compare the high risk of winter weather to population density.
 
